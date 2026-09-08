@@ -1,0 +1,460 @@
+pmid,source,relation,target,tier,note
+14247704,diabetes,Positive_Correlation,Exudative lesions,Tier1_agree,
+14247704,diabetes,Positive_Correlation,capsular drops,Tier1_agree,
+5355346,hypothyroidism,Negative_Correlation,metabolic clearance rate of HGH,Tier1_agree,
+5431658,juvenile diabetes,Positive_Correlation,serum growth hormone,Tier1_agree,
+4729184,insulin-dependent diabetes mellitus,Association,autoimmune hypothyroidism,Tier1_agree,
+1166797,beef-pork insulin,Positive_Correlation,systemic allergic reaction,Tier1_agree,
+1166797,pork insulin,Positive_Correlation,systemic allergic reaction,Tier1_agree,
+1166797,monocomponent insulin,Positive_Correlation,systemic allergic reaction,Tier1_agree,
+1166797,insulin,Positive_Correlation,blast cell transformation,Tier1_agree,
+54584,diabetic ketoacidosis,Association,acute abdomen,Tier1_agree,
+334498,Islet-cell antibodies,Association,juvenile diabetes mellitus,Tier1_agree,
+334498,Islet-cell antibodies,Bind,endocrine-islet cells,Tier1_agree,
+334498,juvenile diabetes mellitus,Association,auto-immune pathogenesis,Tier1_agree,
+353557,islet-cell-surface antibodies,Association,juvenile diabetes,Tier1_agree,
+353557,islet-cell-surface antibodies,Bind,islet cells,Tier1_agree,
+353557,islet-cell-surface antibodies,Association,glucose intolerance,Tier1_agree,
+353557,islet-cell-surface antibodies,Association,thyroid disorders,Tier1_agree,
+676730,diabetes,Negative_Correlation,height increment,Tier1_agree,
+676730,diabetes,Negative_Correlation,endogenous insulin production,Tier1_agree,
+535578,polyneuropathy,Negative_Correlation,nerve conduction velocity,Tier1_agree,
+535578,polyneuropathy,Positive_Correlation,distal latency,Tier1_agree,
+7418963,HLA B8,Positive_Correlation,juvenile-onset insulin-dependent diabetes,Tier1_agree,
+7418963,HLA B14,Positive_Correlation,juvenile-onset insulin-dependent diabetes,Tier1_agree,
+6751735,hemoglobin A1c,Negative_Correlation,symptomatic hypoglycemia,Tier1_agree,
+6357915,Type 1 diabetes,Negative_Correlation,glucose utilization,Tier1_agree,
+6357915,glucose,Positive_Correlation,glucose utilization,Tier1_agree,
+6205922,hypoglycemia,Positive_Correlation,beta-thromboglobulin,Tier1_agree,
+6205922,hypoglycemia,Positive_Correlation,cortisol,Tier1_agree,
+6205922,hypoglycemia,Positive_Correlation,growth hormone,Tier1_agree,
+6205922,hypoglycemia,Positive_Correlation,platelet activation,Tier1_agree,
+4060795,thrombophilia,Association,atherogenesis,Tier1_agree,
+3945267,nonenzymatically glycosylated proteins,Conversion,cross-linked protein adducts,Tier1_agree,
+3945267,Type I diabetes,Positive_Correlation,collagen-linked fluorescence,Tier1_agree,
+3945267,collagen-linked fluorescence,Positive_Correlation,retinopathy,Tier1_agree,
+3945267,collagen-linked fluorescence,Positive_Correlation,nephropathy,Tier1_agree,
+3945267,collagen-linked fluorescence,Positive_Correlation,arterial stiffness,Tier1_agree,
+3945267,collagen-linked fluorescence,Positive_Correlation,joint stiffness,Tier1_agree,
+3945267,collagen-linked fluorescence,Positive_Correlation,diabetic complications,Tier1_agree,
+3945267,collagen-linked fluorescence,Positive_Correlation,systolic blood pressure,Tier1_agree,
+3945267,collagen-linked fluorescence,Positive_Correlation,diastolic blood pressure,Tier1_agree,
+3272815,HLA-DR1,Positive_Correlation,insulin antibody,Tier1_agree,
+3272815,HLA-DR3,Negative_Correlation,insulin antibody,Tier1_agree,
+3272815,HLA-DR1,Association,humoral immune response,Tier1_agree,
+3272815,HLA-DR3,Association,humoral immune response,Tier1_agree,
+3272815,exogenous insulin,Association,humoral immune response,Tier1_agree,
+2688138,intensified insulin therapy,Positive_Correlation,metabolic control,Tier1_agree,
+2688138,intensified insulin therapy,Negative_Correlation,haemoglobin A1c,Tier1_agree,
+2789462,insulin autoantibodies,Association,type I diabetes mellitus,Tier1_agree,
+2789462,HLA-DR3,Positive_Correlation,type I diabetes mellitus,Tier1_agree,
+2789462,HLA-DR4,Positive_Correlation,type I diabetes mellitus,Tier1_agree,
+2203875,mixed meal,Positive_Correlation,insulinaemic response,Tier1_agree,
+1788205,insulin-dependent diabetes mellitus,Association,stable perfusion defects,Tier1_agree,
+1604625,pancreaticoduodeno-renal transplantation,Association,graft pancreatitis,Tier1_agree,
+8012161,alcoholism,Association,alcoholic nerve damage,Tier1_agree,
+8731565,oleic acid-rich diet,Positive_Correlation,LDL oleic acid content,Tier1_agree,
+8731565,oleic acid-rich diet,Negative_Correlation,fasting blood glucose,Tier1_agree,
+8731565,fasting blood glucose,Negative_Correlation,LDL oleic acid level,Tier1_agree,
+9300243,diabetic polyneuropathy,Negative_Correlation,muscle strength,Tier1_agree,
+9533990,tighter glycemic control,Negative_Correlation,long-term diabetic complications,Tier1_agree,
+10905497,nitric oxide synthesis,Negative_Correlation,free radical activity,Tier1_agree,
+12401723,diabetic autonomic neuropathy,Positive_Correlation,cardiovascular mortality,Tier1_agree,
+12401723,diabetic autonomic neuropathy,Negative_Correlation,myocardial perfusion reserve capacity,Tier1_agree,
+12401723,Dipyridamole,Positive_Correlation,vasodilatation,Tier1_agree,
+16005542,C-peptide,Positive_Correlation,parasympathetic nerve activity,Tier1_agree,
+16005542,C-peptide,Positive_Correlation,gastric acid secretion,Tier1_agree,
+17060846,diabetes mellitus,Positive_Correlation,end-stage renal disease,Tier1_agree,
+17060846,diabetes mellitus,Association,blindness,Tier1_agree,
+17060846,diabetes mellitus,Association,atherosclerosis,Tier1_agree,
+17060846,diabetes mellitus,Association,dyslipidemia,Tier1_agree,
+17060846,diabetes mellitus,Association,cardio-cerebrovascular disease,Tier1_agree,
+17060846,diabetes mellitus,Association,amputation,Tier1_agree,
+17060846,hyperglycemia,Positive_Correlation,diabetic complications,Tier1_agree,
+17060846,hypertension,Positive_Correlation,diabetic complications,Tier1_agree,
+17121768,diabetes,Positive_Correlation,chronic liver disease,Tier1_agree,
+17510698,prolonged moderate exercise,Negative_Correlation,hyperglycemia,Tier1_agree,
+17510698,postexercise state,Negative_Correlation,insulin sensitivity,Tier1_agree,
+17510698,prolonged moderate exercise,Negative_Correlation,postprandial C-peptide elevation,Tier1_agree,
+18064633,MIF,Positive_Correlation,insulitis,Tier1_agree,
+18064633,MIF,Positive_Correlation,pancreatic endocrine apoptosis,Tier1_agree,
+18064633,MIF,Positive_Correlation,lymphocyte proliferation,Tier1_agree,
+18064633,MIF,Positive_Correlation,lymphocyte adhesion,Tier1_agree,
+18064633,MIF,Positive_Correlation,IL-12,Tier1_agree,
+18064633,MIF,Positive_Correlation,IL-23,Tier1_agree,
+18064633,MIF,Positive_Correlation,TNF-alpha,Tier1_agree,
+18064633,MIF,Positive_Correlation,IL-1beta,Tier1_agree,
+18064633,MIF,Negative_Correlation,IL-4,Tier1_agree,
+18064633,MIF,Negative_Correlation,TGF-beta,Tier1_agree,
+18064633,anti-MIF antibody,Negative_Correlation,accelerated diabetes,Tier1_agree,
+18064633,MIF deficiency,Negative_Correlation,immunoinflammatory diabetes,Tier1_agree,
+18064633,cyclophosphamide,Positive_Correlation,accelerated diabetes,Tier1_agree,
+18064633,diabetogenic spleen cells,Positive_Correlation,accelerated diabetes,Tier1_agree,
+18064633,streptozotocin,Positive_Correlation,immunoinflammatory diabetes,Tier1_agree,
+18064633,streptozotocin,Positive_Correlation,insulitis,Tier1_agree,
+18064633,streptozotocin,Positive_Correlation,apoptosis,Tier1_agree,
+28615632,miR-10b,Positive_Correlation,corneal epithelial cell proliferation,Tier1_agree,
+28615632,miR-10b,Negative_Correlation,PAX6 expression,Tier1_agree,
+28615632,miR-10b,Negative_Correlation,DKK1 expression,Tier1_agree,
+28615632,miR-10b,Positive_Correlation,keratin 17 expression,Tier1_agree,
+34128835,12-LOX,Positive_Correlation,type 1 diabetes development,Tier1_agree,
+34128835,12-LOX,Positive_Correlation,macrophage infiltration,Tier1_agree,
+34128835,12-LOX,Positive_Correlation,myeloid cell migration,Tier1_agree,
+34128835,CXCR3,Positive_Correlation,myeloid cell migration,Tier1_agree,
+14139995,brittle diabetes,Positive_Correlation,insulin-sensitivity,Tier2_resolved_specific,kept specific label over generic Association
+14139995,brittle diabetes,Positive_Correlation,ketosis-proneness,Tier2_resolved_specific,kept specific label over generic Association
+5355346,insulin-independent diabetes mellitus (IID),Negative_Correlation,metabolic clearance rate of HGH,Tier2_resolved_specific,kept specific label over generic Association
+5355346,insulin-dependent diabetes mellitus (IDD),Negative_Correlation,metabolic clearance rate of HGH,Tier2_resolved_specific,kept specific label over generic Association
+5431658,fasting blood glucose,Positive_Correlation,serum growth hormone,Tier2_resolved_specific,kept specific label over generic Association
+54584,diabetic ketoacidosis,Positive_Correlation,polydipsia,Tier2_resolved_specific,kept specific label over generic Association
+54584,diabetic ketoacidosis,Positive_Correlation,polyuria,Tier2_resolved_specific,kept specific label over generic Association
+54584,diabetic ketoacidosis,Positive_Correlation,anorexia,Tier2_resolved_specific,kept specific label over generic Association
+54584,diabetic ketoacidosis,Positive_Correlation,abdominal pain,Tier2_resolved_specific,kept specific label over generic Association
+54584,diabetic ketoacidosis,Positive_Correlation,severe dehydration,Tier2_resolved_specific,kept specific label over generic Association
+535578,diabetes mellitus,Positive_Correlation,polyneuropathy,Tier2_resolved_specific,kept specific label over generic Association
+7033091,verapamil,Negative_Correlation,glucose response to glucagon,Tier2_reviewed_both,"both facts valid, different sub-aspect"
+7033091,verapamil,Positive_Correlation,the glucose response in the controls,Tier2_reviewed_both,"both facts valid, different sub-aspect"
+7033091,glucagon,Positive_Correlation,glucose response to glucagon,Tier2_resolved_specific,kept specific label over generic Association
+4060795,insulin-dependent diabetes,Positive_Correlation,haemostasis labilisation,Tier2_resolved_specific,kept specific label over generic Association
+2947878,Down's syndrome,Positive_Correlation,autoimmune diseases,Tier2_resolved_specific,kept specific label over generic Association
+2947878,Down's syndrome,Positive_Correlation,hypothyroidism,Tier2_resolved_specific,kept specific label over generic Association
+3272815,HLA-DR3,Positive_Correlation,immunological diseases,Tier2_resolved_specific,kept specific label over generic Association
+1788205,non-insulin-dependent diabetes mellitus,Positive_Correlation,GTT decrease,Tier2_reviewed_equivalent,logically equivalent phrasing (double negation)
+1788205,diabetes mellitus,Negative_Correlation,GTT,Tier2_reviewed_equivalent,logically equivalent phrasing (double negation)
+1788205,metabolic derangements,Positive_Correlation,stable perfusion defects,Tier2_resolved_specific,kept specific label over generic Association
+1595513,bedtime insulin,Positive_Correlation,hyperglycemia control,Tier2_reviewed_both,"both facts valid, different sub-aspect"
+1595513,ultralente insulin,Negative_Correlation,hyperglycemia,Tier2_reviewed_both,"both facts valid, different sub-aspect"
+1604625,pancreatic fistula,Positive_Correlation,ascitis,Tier2_resolved_specific,kept specific label over generic Association
+8731565,LDL oleic acid enrichment,Positive_Correlation,endogenous cholesterol synthesis regulation,Tier2_reviewed_both,"both facts valid, different sub-aspect"
+8731565,oleic-acid-rich diet,Negative_Correlation,cholesterol synthesis,Tier2_reviewed_both,"both facts valid, different sub-aspect"
+9300243,diabetic polyneuropathy,Positive_Correlation,motor dysfunction,Tier2_resolved_specific,kept specific label over generic Association
+9300243,diabetic polyneuropathy,Positive_Correlation,muscular atrophy,Tier2_resolved_specific,kept specific label over generic Association
+10706327,SBP,Positive_Correlation,cardiovascular disease events,Tier2_resolved_specific,kept specific label over generic Association
+10829521,chronic pancreatitis,Positive_Correlation,pain,Tier2_resolved_specific,kept specific label over generic Association
+10829521,advanced chronic pancreatitis,Positive_Correlation,diabetes,Tier2_resolved_specific,kept specific label over generic Association
+11323502,insulin-dependent diabetes mellitus,Positive_Correlation,renal failure,Tier2_resolved_specific,kept specific label over generic Association
+15114267,type 1 diabetes mellitus,Positive_Correlation,microvascular complications,Tier2_resolved_specific,kept specific label over generic Association
+17510698,exercise,Positive_Correlation,muscle glucose clearance,Tier2_reviewed_both,"both facts valid, different sub-aspect"
+17510698,prolonged moderate exercise,Negative_Correlation,glucose,Tier2_reviewed_both,"both facts valid, different sub-aspect"
+17510698,sulfonylurea drugs,Positive_Correlation,plasma glucose decline rate,Tier2_reviewed_yuqi_preferred,yuefei version rejected after checking abstract
+17510698,brief vigorous exercise,Positive_Correlation,plasma glucose,Tier2_reviewed_yuqi_preferred,yuefei version rejected after checking abstract
+18064633,MIF,Positive_Correlation,IL-18,Tier2_resolved_specific,kept specific label over generic Association
+18064633,MIF,Positive_Correlation,iNOS,Tier2_resolved_specific,kept specific label over generic Association
+18221426,type 1 diabetes mellitus,Positive_Correlation,diabetic ketoacidosis,Tier2_resolved_specific,kept specific label over generic Association
+18221426,type 1 diabetes mellitus,Positive_Correlation,polyuria,Tier2_resolved_specific,kept specific label over generic Association
+18221426,type 1 diabetes mellitus,Positive_Correlation,polydipsia,Tier2_resolved_specific,kept specific label over generic Association
+18221426,type 1 diabetes mellitus,Positive_Correlation,polyphagia,Tier2_resolved_specific,kept specific label over generic Association
+18221426,type 1 diabetes mellitus,Positive_Correlation,weight loss,Tier2_resolved_specific,kept specific label over generic Association
+18221426,long‑duration type 1 diabetes mellitus,Positive_Correlation,hypertension,Tier2_resolved_specific,kept specific label over generic Association
+18221426,long‑duration type 1 diabetes mellitus,Positive_Correlation,diabetic nephropathy,Tier2_resolved_specific,kept specific label over generic Association
+18221426,long‑duration type 1 diabetes mellitus,Positive_Correlation,diabetic neuropathy,Tier2_resolved_specific,kept specific label over generic Association
+18221426,long‑duration type 1 diabetes mellitus,Positive_Correlation,diabetic retinopathy,Tier2_resolved_specific,kept specific label over generic Association
+34128835,12-LOX,Positive_Correlation,beta cell loss,Tier2_reviewed_equivalent,logically equivalent phrasing (double negation)
+34128835,depletion or inhibition of 12-LOX,Positive_Correlation,β cell mass,Tier2_reviewed_equivalent,logically equivalent phrasing (double negation)
+14139995,plasma-protein transport,Association,hyperlability,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+14139995,hepatic tissue metabolism of insulin,Association,hyperlability,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+14139995,peripheral tissue metabolism of insulin,Association,hyperlability,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+14139995,dysfunction of plasma-protein transport,Association,brittle diabetes,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+14139995,hepatic and peripheral tissue metabolism of insulin,Association,brittle diabetes,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+5355346,hypothyroidism,Negative_Correlation,production rate of HGH,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+5355346,hyperthyroidism,Positive_Correlation,production rate of HGH,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+5811682,insulin-dependent diabetes incidence,Positive_Correlation,Coxsackie virus type B4,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+5811682,Coxsackie virus type B4,Positive_Correlation,insulin-dependent diabetes,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+5431658,juvenile diabetics,Positive_Correlation,fasting serum growth hormone,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+5431658,exercise,Positive_Correlation,serum growth hormone,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+5431658,exercise,Positive_Correlation,serum insulin,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+5431658,fasting blood glucose level,Positive_Correlation,serum growth hormone,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+4143592,glucose,Positive_Correlation,insulin secretion,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4143592,small-vessel disease,Negative_Correlation,insulin secretion,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4143592,Tolbutamide,Negative_Correlation,insulin secretion,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4143592,small-vessel disease,Association,juvenile diabetes mellitus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4143592,glucose,Positive_Correlation,circulating insulin levels,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+4143592,small-vessel disease,Negative_Correlation,circulating insulin levels,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+5083884,diabetes mellitus,Positive_Correlation,glomerular filtration rate,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+5083884,proteinuria,Negative_Correlation,kidney function,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+5083884,long-term diabetics,Positive_Correlation,glomerular filtration rate,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+4729184,diabetes mellitus,Association,autoimmune hypothyroidism,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4729184,diabetes mellitus,Association,autoimmune disease,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4729184,insulin-independent diabetes mellitus,Association,autoimmune hypothyroidism,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4282831,diabetes mellitus,Association,retardation of growth,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4282831,diabetes mellitus,Association,complications,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4282831,chronic diseases,Association,retardation of growth,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+4371445,juvenile diabetes mellitus,Positive_Correlation,coxsackie B-3,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+4371445,coxsackie B-3,Positive_Correlation,juvenile diabetes mellitus,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1158036,insulin-dependent diabetes mellitus,Positive_Correlation,hyperglycemia,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1158036,insulin-dependent diabetes mellitus,Negative_Correlation,renal glucose production,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1158036,insulin-dependent diabetes mellitus,Negative_Correlation,gluconeogenesis,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1158036,kidney,Association,glutamine,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1158036,kidney,Association,glycine,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1158036,kidney,Association,proline,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1158036,kidney,Association,citrulline,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1158036,kidney,Association,serine,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1158036,kidney,Association,alanine,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1158036,kidney,Association,cystine,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1158036,kidney,Association,tyrosine,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1158036,kidney,Association,threonine,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1166797,systemic desensitization,Negative_Correlation,systemic allergic reaction,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+54584,diabetes mellitus,Positive_Correlation,diabetic ketoacidosis,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+54584,diabetes mellitus,Association,acute abdomen,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+331372,necrobiosis lipoidica diabeticorum,Association,lesions,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+331372,surgical excision,Cotreatment,ligation of the associated perforating blood vessels,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+331372,surgical excision,Cotreatment,split-skin grafts,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+331372,ligation of the associated perforating blood vessels,Cotreatment,split-skin grafts,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+334498,antibody formation,Association,HLA B8,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+334498,Islet-cell antibodies,Association,HLA B8,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+334498,Islet-cell antibodies,Association,endocrine-islet cells,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+353557,islet-cell-surface antibodies,Association,diabetes mellitus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+353557,islet cells,Negative_Correlation,immunofluorescent reaction,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+676730,growth spurt,Positive_Correlation,daily dose of insulin,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+395097,insulin-dependent diabetes,Positive_Correlation,endocrine abnormalities,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+395097,normoglycemia,Positive_Correlation,glucagon secretion,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+395097,normoglycemia,Negative_Correlation,growth hormone secretion,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+395097,normoglycemia,Negative_Correlation,cortisol secretion,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+395097,normoglycemia,Negative_Correlation,endocrine abnormalities,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+395097,artificial endocrine pancreas (Biostator-GCIIS),Comparison,subcutaneous insulin therapy,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+395097,artificial endocrine pancreas (Biostator-GCIIS),Association,blood glucose normalization,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+395097,blood glucose normalization,Association,glucagon secretion,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+395097,blood glucose normalization,Negative_Correlation,Growth hormone secretion,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+395097,blood glucose normalization,Negative_Correlation,Cortisol secretion,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+395097,normoglycemia,Negative_Correlation,insulin-dependent diabetics,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+395097,artificial endocrine pancreas (Biostator-GCIIS),Negative_Correlation,Growth hormone secretion,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+395097,artificial endocrine pancreas (Biostator-GCIIS),Negative_Correlation,Cortisol secretion,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+535578,diabetes mellitus,Positive_Correlation,impaired peripheral nerve function,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+535578,diabetes mellitus,Negative_Correlation,nerve conduction velocity,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+7418963,HLA antigens,Association,insulin-dependent diabetes,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+6751735,hemoglobin A1c,Negative_Correlation,severe symptomatic hypoglycemia,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+6751735,diabetes mellitus,Association,symptomatic hypoglycemia,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+6751735,hemoglobin A1c,Association,blood glucose control,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+6751735,blood glucose control,Positive_Correlation,symptomatic hypoglycemia,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+7033091,verapamil,Positive_Correlation,glucose response to glucagon,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+7033091,glucagon,Positive_Correlation,insulin release,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+7033091,non insulin-dependent diabetes mellitus,Association,hepatic glucose handling,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+7033091,glucagon,Cotreatment,verapamil,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+7033091,glucagon,Cotreatment,saline,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+7033091,verapamil,Comparison,saline,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+7033091,verapamil,Negative_Correlation,the glucose response in the patients with NIDDM,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+7033091,glucagon,Association,the glucose response in the patients with NIDDM,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+6308982,metformin,Association,non-insulin-dependent diabetes mellitus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+7091092,transient neonatal diabetes mellitus,Conversion,type I insulin-dependent diabetes mellitus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+7091092,diabetic ketoacidosis,Positive_Correlation,diabetic coma,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+7091092,type I insulin-dependent diabetes mellitus,Association,insulin,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+6634559,insulin-dependent diabetes,Positive_Correlation,haemostasis labilisation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+6634559,thrombophilia,Association,atherogenesis,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+6634559,insulin dependent diabetes mellitus,Association,nocturnal hypoglycaemia,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+6634559,nocturnal hypoglycaemia,Association,senile dementia,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+6634559,Intramuscular,Cotreatment,intravenous routes produced,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+6205922,insulin,Positive_Correlation,hypoglycemia,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+6205922,insulin,Negative_Correlation,Blood glucose,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+6205922,insulin,Positive_Correlation,beta-thromboglobulin,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+6205922,platelet activation,Association,insulin,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+2947878,Down's syndrome,Association,insulin-dependent diabetes mellitus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+3945267,glucose,Positive_Correlation,nonenzymatic protein browning,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+3945267,collagen-linked fluorescence,Association,long-term metabolic control,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+3945267,collagen-linked fluorescence,Positive_Correlation,duration of diabetes,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+3945267,collagen-linked fluorescence,Association,browning,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+2688138,short-acting insulin,Cotreatment,human ultratard insulin,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+2789462,islet cell antibodies,Positive_Correlation,type I diabetes mellitus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2789462,ICAs,Positive_Correlation,type I diabetes mellitus (DM),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+2789462,insulin binding,Association,type I diabetes mellitus (DM),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+2124448,diabetes,Association,diabetic dysautonomia,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2124448,diabetic dysautonomia,Association,arterial hypertension,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2124448,diabetic dysautonomia,Association,diabetic nephropathy,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2124448,diabetic dysautonomia,Negative_Correlation,nocturnal blood pressure decline,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2124448,arterial hypertension,Association,orthostatic hypotension,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2124448,arterial hypertension (AH),Association,central degenerative disorder,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+2124448,arterial hypertension (AH),Association,diabetic dysautonomia,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+2203875,spaghetti,Association,glycaemic response,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2203875,NIDDM,Association,glycaemic response,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2203875,IDDM,Association,glycaemic response,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1788205,diabetes mellitus,Negative_Correlation,physical working capacity,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1788205,diabetes mellitus,Positive_Correlation,myocardial perfusion disorder,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1788205,diabetes mellitus,Negative_Correlation,myocardial reserve,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1788205,diabetes mellitus,Negative_Correlation,cardiac oxygen supply,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1788205,non-insulin-dependent diabetes mellitus,Association,transient ischemic perfusion defects,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1788205,non-insulin-dependent diabetes mellitus,Negative_Correlation,maximum myocardial Tl uptake,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1788205,noninsulin dependent diabetes,Comparison,insulin dependent diabetes,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1788205,GTT,Association,disturbed oxygen supply of the heart,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1788205,GTT,Association,myocardial reserve,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1788205,diabetes mellitus,Association,disorder of perfusion,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1788205,noninsulin dependent diabetes,Negative_Correlation,maximum Tl uptake by the myocardium,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+2019226,exercise,Association,NIDDM management,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2019226,exercise relapse,Positive_Correlation,guilt,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+2019226,exercise,Association,non-insulin-dependent diabetes mellitus (NIDDM),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1595513,insulin,Association,insulin-dependent diabetes mellitus treatment,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1595513,insulin-sulfonylurea combination therapy,Association,noninsulin-dependent diabetes mellitus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+1595513,intermediate-acting insulin,Cotreatment,regular insulin,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1595513,ultralente insulin,Cotreatment,regular insulin,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1595513,insulin,Cotreatment,sulfonylurea,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1595513,NPH,Negative_Correlation,hyperglycemia,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+1604625,graft pancreatitis,Positive_Correlation,pancreatic fistula,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8405757,Type 1 diabetes mellitus,Negative_Correlation,polyunsaturated fatty acids,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8405757,Type 1 diabetes mellitus,Positive_Correlation,saturated fatty acids,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8405757,n-3 polyunsaturated fatty acids,Negative_Correlation,HbA1c,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8405757,n-3 polyunsaturated fatty acids,Positive_Correlation,Na+-K+ ATPase activity,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8405757,Type 1 (insulin-dependent) diabetic,Negative_Correlation,polyunsaturated fatty acids,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,Type 1 (insulin-dependent) diabetic,Negative_Correlation,docosahexaenoic acid C22:6(n3),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,Type 1 (insulin-dependent) diabetic,Negative_Correlation,arachidonic acid C20:4n6,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,Type 1 (insulin-dependent) diabetic,Positive_Correlation,saturated fatty acids,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,C22:6(n-3),Negative_Correlation,HbA1c,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,C22:6(n-3),Negative_Correlation,fructosamine,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,C22:6(n-3),Positive_Correlation,Na+-K+ ATPase activity,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,total n-3 content,Negative_Correlation,HbA1c,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,total n-3 content,Negative_Correlation,fructosamine,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,total n-3 content,Positive_Correlation,Na+-K+ ATPase activity,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,cell membrane abnormalities,Association,sodium transport systems,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8405757,cell membrane abnormalities,Association,metabolic control,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8012161,type 1 diabetes mellitus,Association,autonomic cardiac neuropathy,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8012161,cardiovascular reflex tests,Association,neuropathy differential diagnosis,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8012161,type 1 (insulin-dependent) diabetics,Association,nerve damage,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+7566857,TDx-FLM level ≥70 mg/g,Negative_Correlation,RDS requiring intubation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+7566857,TDx-FLM assay,Association,delivery timing optimization in diabetic pregnancy,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+7566857,TDx-FLM,Cotreatment,transabdominal amniocentesis,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8731565,Type 2 diabetes,Association,LDL composition alteration,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8731565,oleic-acid-rich diet,Positive_Correlation,glycaemic control,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8731565,low-density lipoprotein (LDL),Association,cholesterol synthesis,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+8781962,type 1 diabetes,Positive_Correlation,anti-AGE antibodies,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8781962,anti-AGE antibodies,Association,long-term diabetic complications pathogenesis,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+8781962,immunoenzyme assay,Association,anti-AGE antibodies detection,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+9300243,diabetic polyneuropathy,Negative_Correlation,muscle volume,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+9300243,muscular atrophy,Positive_Correlation,motor dysfunction,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+9300243,symptomatic neuropathy,Negative_Correlation,Volume of the ankle dorsal and plantar flexors,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+9300243,muscular atrophy,Association,motor weakness,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+9533990,type-1 diabetes mellitus,Association,long-term diabetic complications,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10706327,SBP reduction,Negative_Correlation,stroke,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10706327,SBP reduction,Negative_Correlation,heart failure,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10706327,SBP reduction,Negative_Correlation,cardiovascular disease mortality,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10706327,NIDDM,Association,hypertension,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10706327,Systolic blood pressure (SBP),Comparison,diastolic blood pressure (DBP),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+10706327,Systolic blood pressure (SBP),Positive_Correlation,morbidity,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+10706327,Systolic blood pressure (SBP),Positive_Correlation,mortality,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+10706327,Systolic blood pressure (SBP),Positive_Correlation,stroke,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+10706327,Systolic blood pressure (SBP),Positive_Correlation,heart failure,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+10706327,antihypertensive drugs,Negative_Correlation,Systolic blood pressure (SBP),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+10829521,advanced chronic pancreatitis,Positive_Correlation,fat malabsorption,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10829521,advanced chronic pancreatitis,Positive_Correlation,protein malabsorption,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10829521,pancreatic extracts,Association,malabsorption treatment,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10829521,insulin,Association,diabetes treatment,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10829521,chronic pancreatitis-related diabetes,Negative_Correlation,diabetic ketoacidosis incidence,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10829521,medical therapy,Negative_Correlation,Pain,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+10829521,chronic pancreatitis,Association,Malabsorption of fat and protein,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+10829521,pancreatic extracts,Cotreatment,insulin,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+10905497,type 1 diabetes,Positive_Correlation,whole-body nitric oxide synthesis,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10905497,type 1 diabetes,Association,microvascular disease,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10905497,isoprostane,Positive_Correlation,lipid peroxidation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10905497,reactive oxygen species,Negative_Correlation,nitric oxide activity,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+10905497,type 1 diabetes,Positive_Correlation,NO synthesis,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+11323502,hemolytic-uremic syndrome,Positive_Correlation,renal failure,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11323502,renal failure,Negative_Correlation,pancreatic function,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11323502,ostomy amylase,Association,pancreatic function,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11323502,Simultaneous pancreas and kidney transplantation,Cotreatment,venting jejunostomy (VJ),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+11323502,portal-enteric (PE) pancreas and kidney transplantation,Comparison,bladder drainage,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Association,GAD antibody,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Association,type 1 diabetes HLA risk alleles,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Association,MODY gene mutations,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Association,A3243G mitochondrial DNA mutation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Positive_Correlation,chromosome 1p locus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Positive_Correlation,chromosome 3p locus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Positive_Correlation,chromosome 7q locus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Positive_Correlation,chromosome 11q locus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Positive_Correlation,chromosome 18q locus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Positive_Correlation,chromosome 20q locus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Positive_Correlation,chromosome 21q locus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Positive_Correlation,chromosome 16q locus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,early-onset diabetes,Positive_Correlation,chromosome 5q locus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+11978663,chromosome 1p,Association,early-onset diabetes (EOD),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+11978663,D1S438,Association,early-onset diabetes (EOD),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+11978663,D16S419,Association,early-onset diabetes (EOD),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+11978663,HLA risk alleles,Association,early-onset diabetes (EOD),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+11978663,GAD antibody,Association,early-onset diabetes (EOD),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+12401723,type 1 diabetes,Association,autonomic neuropathy,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+12401723,diabetic autonomic neuropathy,Negative_Correlation,blood pressure response to vasodilatation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+12401723,Dipyridamole,Negative_Correlation,blood pressure,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+12401723,blood pressure,Association,myocardial perfusion reserve,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+12820687,type 1 diabetes,Negative_Correlation,beta cell mass,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+12820687,oxidative PEC proportion,Negative_Correlation,insulitis severity,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+12820687,oxidative PEC proportion,Association,type 1 diabetes disease activity,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+12820687,beta cell mass reduction,Association,late prediabetic stage,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+12820687,oxidative peritoneal exudate cells (PEC),Negative_Correlation,insulitis,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+20086468,exercise,Association,type 1 diabetes mellitus management,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+20086468,exercise,Association,diabetic complication risk modulation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15013454,type 2 diabetes mellitus,Positive_Correlation,hyperglycemia,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15013454,sulfonylureas,Positive_Correlation,fasting glucose control,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15013454,metformin,Positive_Correlation,fasting glucose control,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15013454,basal insulin therapy,Positive_Correlation,glycemic control,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15013454,insulin glargine,Association,basal insulin therapy,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15013454,HbA1c elevation,Positive_Correlation,glycemic control loss,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15013454,endogenous insulin decline,Positive_Correlation,postprandial hyperglycemia,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15013454,sulfonylureas,Cotreatment,metformin,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+15013454,sulfonylureas,Negative_Correlation,hyperglycemia,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+15013454,metformin,Negative_Correlation,hyperglycemia,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+15013454,basal insulin,Cotreatment,oral agents,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+15013454,basal insulin,Comparison,shorter-acting insulins,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+15013454,basal insulin,Negative_Correlation,weight gain,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+15114267,type 1 diabetes mellitus,Association,acute diabetic complications,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15114267,HbA1c,Positive_Correlation,microvascular complications,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15114267,hypertension,Positive_Correlation,microvascular complications,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+15114267,microvascular complications,Association,HbA1c,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+15114267,microvascular complications,Association,hypertension,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+16005542,C-peptide,Negative_Correlation,sympathetic nerve activity,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+16005542,C-peptide,Positive_Correlation,vagus nerve activity,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+16005542,C-peptide,Association,cardiac autonomic nerve function improvement in type 1 diabetes,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+16005542,C-peptide,Positive_Correlation,electrophysiological activity of the vagus nerves,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+16005542,atropine,Negative_Correlation,gastric acid secretion,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17060846,diabetes mellitus,Negative_Correlation,quality of life,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17060846,diabetes mellitus,Negative_Correlation,lifespan,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17121768,type 1 diabetes,Positive_Correlation,elevated ALT,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17121768,type 2 diabetes,Positive_Correlation,elevated ALT,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17121768,body mass index,Positive_Correlation,elevated ALT in type 2 diabetes,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17121768,insulin,Negative_Correlation,elevated ALT in type 2 diabetes,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17121768,serum alanine transaminase (ALT),Association,mortality from liver disease,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17121768,type 1 diabetes,Positive_Correlation,serum alanine transaminase (ALT),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17121768,type 2 diabetes,Positive_Correlation,serum alanine transaminase (ALT),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17121768,body mass index,Positive_Correlation,serum alanine transaminase (ALT),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17121768,insulin,Negative_Correlation,serum alanine transaminase (ALT),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17365945,Type 1 diabetes,Association,pancreas transplantation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17365945,pancreas allograft,Association,occult donor malignant tumor,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17365945,organ transplantation,Positive_Correlation,tumor transmission,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17365945,occult primary tumor,Positive_Correlation,tumor transmission,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17365945,tumor transmission,Positive_Correlation,metastatic disease,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17365945,pancreas allograft,Association,malignant undifferentiated tumor,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17510698,type 1 diabetes mellitus,Association,hypo/hyperglycemia risk,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17510698,type 2 diabetes mellitus,Association,lower exercise metabolic risk,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17510698,sulfonylurea drugs,Negative_Correlation,hepatic glucose production,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17510698,prolonged moderate exercise,Negative_Correlation,postprandial glucose elevation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17510698,prolonged moderate exercise,Negative_Correlation,postprandial insulin elevation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17510698,prolonged moderate exercise,Negative_Correlation,postprandial triglyceride elevation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17510698,total energy expenditure,Positive_Correlation,exercise-induced glucose homeostasis changes,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+17510698,Sulfonylurea drugs,Positive_Correlation,insulin secretion,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17510698,insulin secretion,Negative_Correlation,hepatic glucose production,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17510698,brief vigourous exercise,Positive_Correlation,plasma glucose,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17510698,brief vigourous exercise,Positive_Correlation,counterregulatory hormone response,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17510698,brief vigourous exercise,Positive_Correlation,glucose production,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17510698,intermittent high-intensity exercise,Negative_Correlation,glucose,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17510698,intermittent high-intensity exercise,Negative_Correlation,C-peptide,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+17510698,prolonged moderate exercise,Negative_Correlation,triglycerides,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+18064633,MIF,Positive_Correlation,type 1 diabetes progression,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+18064633,MIF deficiency,Negative_Correlation,insulitis,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+18064633,MIF deficiency,Positive_Correlation,protective type 2/3 immune deviation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+18064633,MIF deficiency,Negative_Correlation,immunoinflammatory diabetes,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+18064633,IL-12,Association,immunoinflammatory diabetes,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+18064633,IL-23,Association,immunoinflammatory diabetes,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+28615632,miR-10b,Positive_Correlation,diabetic corneal alterations,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+28615632,miR-10b,Positive_Correlation,limbal epithelial stem cell maintenance,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+28615632,type 1 diabetes,Positive_Correlation,miR-10b upregulation in limbus,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+28615632,microRNAs (miRNAs),Association,gene expression,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+28615632,diabetes mellitus,Positive_Correlation,miR-10b,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+28615632,type 1 diabetes mellitus (T1DM/IDDM),Comparison,type 2 diabetes mellitus (T2DM/NIDDM),Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+28615632,miR-10b,Positive_Correlation,Ki-67,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+28615632,small non-coding RNAs,Association,gene expression,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+28615632,type 1 diabetes mellitus (T1DM/IDDM),Association,differential miRNA signatures,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,12-LOX,Positive_Correlation,islet inflammation,Tier3_single_yuqi,only one annotator captured this; accepted pending spot-check
+34128835,macrophages,Association,early islet inflammation,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,12-lipoxygenase (12-LOX),Positive_Correlation,formation of proinflammatory eicosanoids,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,macrophages,Positive_Correlation,loss of β cells,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,loss of β cells,Association,hyperglycemia,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,depletion or inhibition of 12-LOX,Negative_Correlation,proinflammatory macrophages,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,depletion or inhibition of 12-LOX,Negative_Correlation,T cell response,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,myeloid cell migration,Association,immune surveillance,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,myeloid cell migration,Association,tissue injury responses,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,transgenic expression of the gene encoding CXCR3,Positive_Correlation,myeloid cell migration,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
+34128835,12-lipoxygenase (12-LOX),Positive_Correlation,prodiabetogenic phenotype,Tier3_single_yuefei,only one annotator captured this; accepted pending spot-check
