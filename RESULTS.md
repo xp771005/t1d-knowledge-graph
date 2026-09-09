@@ -7,6 +7,12 @@
   - 876个实体（10类：Disease, Gene, Protein, Drug, Chemical, Biological_Process, Pathway, Cell_Type, Biomarker, Clinical_Outcome）
   - 459条关系（BioRED风格8类：Positive_Correlation, Negative_Correlation, Association, Bind, Drug_Interaction, Cotreatment, Comparison, Conversion）
 
+**关于后文出现的其他实体/关系计数**（704、747等）：本文档不同章节会用到统计口径不同的计数，说明如下——
+- **876** = `gt_entities_68papers.csv`行数：裁决后的mention级GT，若两人对同一实体的类型标签有分歧（disagree），双方的类型标签各保留一行
+- **704** = `gt_unique_entities_68papers.csv`行数：把上述GT**跨68篇论文**合并同名同类型实体后的unique concept数，用于第3节的PanKgraph本体标准化（避免同一概念被重复查询）
+- **747** = 第4节模型评测用的raw entity gold：从`union_entities_68papers.csv`（874行，与876行GT同源）出发，disagree的实体只保留Yuqi一侧的类型标签、丢弃Yuefei一侧127行重复变体（874−127=747）——因为entity的disagree本身没有做进一步人工裁决，两个标签地位相同，取一侧是合理简化
+- 第4节raw的**455条relation**同理是从`union_relations_68papers.csv`机械丢弃Yuefei一侧的disagree行得到的（499−44=455），但relation的disagree实际上后续做了真正的人工裁决（`gt_relations_68papers.csv`里对应`Tier2_resolved_specific`等标签，最终裁决为**459条**）——455与459的4条之差是已知的简化，未重新按459条跑评测
+
 ## 2. 标注一致性（Inter-Annotator Agreement）
 
 对Yuqi和Yuefei独立标注的原始结果（未经裁决前）计算一致性，按匹配严格程度分三档：
@@ -45,6 +51,8 @@
 - **broad_v2**：全部10类里标准化成功的（539/89）
 - **precise**：4类里标准化成功且PanKgraph真能查到节点的（92/3）
 
+计数口径：entity数量按论文中的entity mention统计（broad_v1/broad_v2/precise为Yuqi+Yuefei两人mention的直接池化，不做跨annotator合并；raw见上一节说明）；relation上，broad_v1/broad_v2/precise只有当source和target两个端点实体都满足该版本的entity筛选条件时才保留该relation，raw的relation则直接来自两人标注关系的并集，不额外做entity归属过滤。
+
 ### 精确匹配结果（GPT-4o vs GPT-5，四个Gold版本）
 
 **GPT-4o**
@@ -71,7 +79,7 @@
 
 - **62%**：至少一个端点实体本身就不在人工标注中（entity识别错误直接传导放大到relation上）
 - **38%**：两个端点实体都识别正确，但其中：
-  - 约82%是人工没有标注的真实关联（GPT-5多找出来的，非模型错误）
+  - 约82%为人工GT中未标注的额外关联，其中不少从原文语义看属于合理关系（未逐条人工复核确认，非系统性验证结论）
   - 约18%是关系标签本身判断错误，其中高度集中在GPT-5把"Positive_Correlation"误标为更笼统的"Association"这一种系统性模式
 
 ## 6. Qwen模型规模对比（另一套评测，基于早期8篇论文GT，样本较小）
