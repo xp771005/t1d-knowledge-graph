@@ -10,8 +10,7 @@
 **关于后文出现的其他实体/关系计数**（704、747等）：本文档不同章节会用到统计口径不同的计数，说明如下——
 - **876** = `gt_entities_68papers.csv`行数：裁决后的mention级GT，若两人对同一实体的类型标签有分歧（disagree），双方的类型标签各保留一行
 - **704** = `gt_unique_entities_68papers.csv`行数：把上述GT**跨68篇论文**合并同名同类型实体后的unique concept数，用于第3节的PanKgraph本体标准化（避免同一概念被重复查询）
-- **747** = 第4节模型评测用的raw entity gold：从`union_entities_68papers.csv`（874行，与876行GT同源）出发，disagree的实体只保留Yuqi一侧的类型标签、丢弃Yuefei一侧127行重复变体（874−127=747）——因为entity的disagree本身没有做进一步人工裁决，两个标签地位相同，取一侧是合理简化
-- 第4节raw的**455条relation**同理是从`union_relations_68papers.csv`机械丢弃Yuefei一侧的disagree行得到的（499−44=455），但relation的disagree实际上后续做了真正的人工裁决（`gt_relations_68papers.csv`里对应`Tier2_resolved_specific`等标签，最终裁决为**459条**）——455与459的4条之差是已知的简化，未重新按459条跑评测
+- **747** = 第4节模型评测用的raw entity gold：Yuqi和Yuefei标注实体取并集
 
 ## 2. 标注一致性（Inter-Annotator Agreement）
 
