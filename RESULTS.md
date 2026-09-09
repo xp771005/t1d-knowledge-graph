@@ -7,10 +7,7 @@
   - 876个实体（10类：Disease, Gene, Protein, Drug, Chemical, Biological_Process, Pathway, Cell_Type, Biomarker, Clinical_Outcome）
   - 459条关系（BioRED风格8类：Positive_Correlation, Negative_Correlation, Association, Bind, Drug_Interaction, Cotreatment, Comparison, Conversion）
 
-**关于后文出现的其他实体/关系计数**（704、747等）：本文档不同章节会用到统计口径不同的计数，说明如下——
-- **876** = `gt_entities_68papers.csv`行数：裁决后的mention级GT，若两人对同一实体的类型标签有分歧（disagree），双方的类型标签各保留一行
-- **704** = `gt_unique_entities_68papers.csv`行数：把上述GT**跨68篇论文**合并同名同类型实体后的unique concept数，用于第3节的PanKgraph本体标准化（避免同一概念被重复查询）
-- **747** = 第4节模型评测用的raw entity gold：Yuqi和Yuefei标注实体取并集
+> 后文704、747等数字统计口径不同：704为跨68篇论文去重后的unique实体数（用于第3节本体标准化），747为第4节模型评测用的raw entity gold（Yuqi/Yuefei标注取并集）。
 
 ## 2. 标注一致性（Inter-Annotator Agreement）
 
