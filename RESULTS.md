@@ -3,11 +3,13 @@
 ## 1. 数据规模
 
 - **全量PubMed语料**：125,214篇T1D相关论文（`data/all_type1_diabetes_pubmed_papers.csv.gz`）
-- **人工标注GT**：91篇采样论文中的68篇，由Yuqi和Yuefei两人独立标注，经union+adjudication流程合并裁决，得到最终GT：
+- **人工标注GT**：91篇采样论文中的68篇，由Yuqi和Yuefei两人独立标注，经union及disagreement处理后形成GT（对于类型存在分歧的实体，两侧类型均保留）：
   - 876个实体（10类：Disease, Gene, Protein, Drug, Chemical, Biological_Process, Pathway, Cell_Type, Biomarker, Clinical_Outcome）
   - 459条关系（BioRED风格8类：Positive_Correlation, Negative_Correlation, Association, Bind, Drug_Interaction, Cotreatment, Comparison, Conversion）
 
-> 后文704、747等数字统计口径不同：704为跨68篇论文去重后的unique实体数（用于第3节本体标准化），747为第4节模型评测用的raw entity gold（Yuqi/Yuefei标注取并集）。
+> 后文704、747等数字统计口径不同：704为876条GT跨68篇论文按"实体名称+类型"去重后的unique实体数，用于第3节本体标准化；747为第4节模型评测使用的raw entity gold。该评测文件与876条GT同源，独立清理后共874条记录；对于两位annotator存在类型分歧的实体，评测时仅保留Yuqi侧类型，去除Yuefei侧127条类型变体，因此最终为747条。
+>
+> relation同理：459为最终GT——44对存在关系标签分歧的relation经人工复核裁决，合并为50条；而第4节raw评测集为455条，对这44对分歧relation仅保留了Yuqi侧的原始（未裁决）标注，未采用裁决结果，因此少于459。
 
 ## 2. 标注一致性（Inter-Annotator Agreement）
 
@@ -42,7 +44,7 @@
 
 用四套不同严格程度的gold standard评测两个模型的实体/关系抽取效果：
 
-- **raw**：Yuqi+Yuefei标注的真实并集（747实体/455关系），不做标准化过滤
+- **raw**：未经本体标准化过滤的人工标注评测集（747实体/455关系）；entity中对于Yuqi/Yuefei存在类型分歧的mention，仅保留Yuqi侧类型作为评测标签
 - **broad_v1**：4类PanKgraph相关实体（Disease/Gene/Cell_Type/Biological_Process）里标准化成功的（295/29）
 - **broad_v2**：全部10类里标准化成功的（539/89）
 - **precise**：4类里标准化成功且PanKgraph真能查到节点的（92/3）
