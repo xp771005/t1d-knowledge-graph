@@ -22,6 +22,32 @@ Decompress with `gunzip data/all_type1_diabetes_pubmed_papers.csv.gz`.
 
 Per-year paper counts for the full corpus above.
 
+### `data/clean_candidate_pool_pmids.csv`
+
+Rule-based (no AI) quality/relevance filter applied to the full 125,178-paper
+corpus, producing a clean pool of **75,780 papers** suitable as a source for
+future annotation sampling. Columns: `pmid, year, title`. A paper is excluded
+if:
+- it has no abstract (21,666 papers), or
+- `matched_terms` is empty in the full corpus file — i.e. none of the
+  diabetes keywords actually appear in the paper's own title/abstract text,
+  meaning it was only pulled in via PubMed's MeSH auto-term-mapping rather
+  than genuinely discussing diabetes (27,552 papers; this is exactly how a
+  confirmed false positive, "Penile necrosis secondary to an indwelling
+  Foley catheter" pmid 3669177, slipped into the original 91-paper sample —
+  it carries a "Diabetes Mellitus, Type 1" MeSH tag but never mentions
+  diabetes in its abstract), or
+- its abstract is under 200 characters (180 papers).
+
+### `data/sampled_t1d_papers_for_labeling_191.csv`
+
+The original 91-paper annotation sample (rows 1-91) plus 100 newly sampled
+papers (rows 92-191, drawn at random, seed 42, from the clean candidate pool
+above, excluding papers already in the original 91) appended directly after
+it — ready to hand off for the next round of manual annotation. Same 9-column
+schema as the original sample file (`pmid, pubmed_url, year, title, abstract,
+journal, keywords, mesh_terms, publication_types`).
+
 ### `data/gt_entities_68papers.csv` / `data/gt_relations_68papers.csv`
 
 Human-annotated ground truth built from 68 of a 91-paper sample, independently
