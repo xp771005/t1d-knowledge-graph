@@ -6,6 +6,7 @@
 - **人工标注GT**：91篇采样论文中的68篇，由Yuqi和Yuefei两人独立标注，经union及disagreement处理后形成GT（对于类型存在分歧的实体，两侧类型均保留）：
   - 876个实体（10类：Disease, Gene, Protein, Drug, Chemical, Biological_Process, Pathway, Cell_Type, Biomarker, Clinical_Outcome）
   - 459条关系（BioRED风格8类：Positive_Correlation, Negative_Correlation, Association, Bind, Drug_Interaction, Cotreatment, Comparison, Conversion）
+  - 完整的68篇论文（含PubMed ID、标题、摘要等元数据）+ 标注结果，见 [`data/annotated_papers_with_labels_68papers.csv`](data/annotated_papers_with_labels_68papers.csv)
 
 > 后文704、747等数字统计口径不同：704为876条GT跨68篇论文按"实体名称+类型"去重后的unique实体数，用于第3节本体标准化；747为第4节模型评测使用的raw entity gold。对于两位annotator存在类型分歧的实体，评测时仅保留Yuqi侧类型，去除Yuefei侧127条类型变体，因此最终为747条。
 >
