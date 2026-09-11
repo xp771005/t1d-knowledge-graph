@@ -41,6 +41,19 @@ additions, and adjudicated disagreements are all tiered and retained).
   e.g. `Tier2_type_disagree_*`, `Tier2_reviewed_*`, `Tier2_resolved_specific`),
   or `Tier3_single_*` (only one annotator captured it, adjudicated in).
 
+### `data/annotated_papers_with_labels_68papers.csv`
+
+One row per annotated paper (68 rows) joining PubMed metadata with the final
+GT labels, so each paper's source text and its annotations can be viewed
+together without cross-referencing separate files.
+
+Columns: `pmid, pubmed_url, year, title, journal, abstract, keywords,
+mesh_terms, publication_types, entities, relations` — `entities` and
+`relations` are semicolon-joined in the same `mention (Type)` /
+`(source, relation, target)` format as elsewhere, sourced from
+`gt_entities_68papers.csv` / `gt_relations_68papers.csv` (the final
+adjudicated GT, not the raw per-annotator columns).
+
 ### Four gold-standard variants used for model evaluation
 
 Built to test whether the extraction task should be scored against the full
